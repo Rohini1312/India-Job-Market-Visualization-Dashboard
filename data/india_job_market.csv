@@ -1,0 +1,201 @@
+Job_ID,Job_Title,Company,Location,Skill,Job_Type,Experience,Salary_LPA
+JOB001,Business Analyst,Infosys,Hyderabad,Java,Part-time,1-3 Years,10
+JOB002,Python Developer,Infosys,Delhi,Java,Internship,0-1 Years,16
+JOB003,Data Analyst,TCS,Hyderabad,SQL,Full-time,0-1 Years,20
+JOB004,Python Developer,HCL Technologies,Pune,SQL,Part-time,3-5 Years,3
+JOB005,Web Developer,Wipro,Delhi,Power BI,Part-time,3-5 Years,7
+JOB006,Python Developer,Capgemini,Hyderabad,Python,Part-time,0-1 Years,14
+JOB007,Web Developer,Capgemini,Mumbai,Excel,Full-time,5+ Years,20
+JOB008,Data Analyst,Tech Mahindra,Hyderabad,Machine Learning,Part-time,3-5 Years,9
+JOB009,Business Analyst,Infosys,Hyderabad,Java,Full-time,3-5 Years,5
+JOB010,Web Developer,Accenture,Noida,Python,Part-time,3-5 Years,17
+JOB011,Business Analyst,Capgemini,Bengaluru,Excel,Part-time,1-3 Years,11
+JOB012,Business Analyst,Infosys,Mumbai,Java,Full-time,1-3 Years,8
+JOB013,Software Engineer,Tech Mahindra,Chennai,Java,Internship,1-3 Years,13
+JOB014,Web Developer,TCS,Bengaluru,Tableau,Full-time,3-5 Years,15
+JOB015,Data Scientist,Infosys,Bengaluru,Machine Learning,Internship,3-5 Years,9
+JOB016,Business Analyst,Cognizant,Pune,Java,Part-time,1-3 Years,11
+JOB017,Python Developer,Accenture,Delhi,Machine Learning,Internship,3-5 Years,16
+JOB018,Machine Learning Engineer,Tech Mahindra,Chennai,SQL,Full-time,5+ Years,5
+JOB019,Web Developer,TCS,Noida,Python,Full-time,1-3 Years,16
+JOB020,Machine Learning Engineer,Infosys,Pune,Power BI,Internship,5+ Years,19
+JOB021,Data Scientist,HCL Technologies,Noida,Python,Internship,0-1 Years,20
+JOB022,Web Developer,Deloitte,Noida,Java,Part-time,0-1 Years,12
+JOB023,Software Engineer,Wipro,Pune,Python,Internship,3-5 Years,19
+JOB024,Web Developer,Wipro,Mumbai,Python,Internship,3-5 Years,19
+JOB025,Machine Learning Engineer,Accenture,Bengaluru,Excel,Full-time,0-1 Years,13
+JOB026,Software Engineer,TCS,Hyderabad,Excel,Part-time,1-3 Years,4
+JOB027,Python Developer,IBM,Hyderabad,Python,Internship,5+ Years,5
+JOB028,Web Developer,HCL Technologies,Noida,SQL,Full-time,5+ Years,20
+JOB029,Python Developer,Deloitte,Mumbai,Tableau,Internship,5+ Years,9
+JOB030,Machine Learning Engineer,Accenture,Delhi,Excel,Part-time,3-5 Years,17
+JOB031,Machine Learning Engineer,Cognizant,Hyderabad,SQL,Full-time,0-1 Years,13
+JOB032,Data Analyst,IBM,Mumbai,SQL,Internship,1-3 Years,3
+JOB033,Data Analyst,TCS,Bengaluru,Python,Full-time,3-5 Years,5
+JOB034,Machine Learning Engineer,Accenture,Chennai,Java,Part-time,1-3 Years,20
+JOB035,Python Developer,IBM,Mumbai,Power BI,Full-time,5+ Years,16
+JOB036,Python Developer,Infosys,Hyderabad,Java,Part-time,3-5 Years,16
+JOB037,Software Engineer,Cognizant,Noida,Java,Full-time,0-1 Years,4
+JOB038,Software Engineer,Capgemini,Noida,Tableau,Full-time,1-3 Years,9
+JOB039,Python Developer,HCL Technologies,Pune,SQL,Part-time,1-3 Years,11
+JOB040,Software Engineer,Accenture,Noida,Python,Part-time,0-1 Years,4
+JOB041,Business Analyst,HCL Technologies,Noida,Python,Full-time,1-3 Years,8
+JOB042,Software Engineer,Cognizant,Pune,SQL,Part-time,0-1 Years,8
+JOB043,Software Engineer,TCS,Pune,Excel,Part-time,3-5 Years,16
+JOB044,Business Analyst,HCL Technologies,Delhi,Java,Part-time,1-3 Years,9
+JOB045,Data Scientist,Accenture,Hyderabad,Machine Learning,Internship,0-1 Years,13
+JOB046,Data Analyst,TCS,Mumbai,Power BI,Internship,1-3 Years,4
+JOB047,Machine Learning Engineer,Infosys,Noida,SQL,Full-time,0-1 Years,10
+JOB048,Software Engineer,Infosys,Mumbai,SQL,Internship,0-1 Years,5
+JOB049,Software Engineer,IBM,Mumbai,Machine Learning,Part-time,3-5 Years,9
+JOB050,Business Analyst,Capgemini,Bengaluru,Excel,Part-time,1-3 Years,12
+JOB051,Software Engineer,Capgemini,Noida,Python,Full-time,5+ Years,6
+JOB052,Data Analyst,HCL Technologies,Bengaluru,Machine Learning,Part-time,1-3 Years,14
+JOB053,Data Analyst,Accenture,Chennai,Excel,Full-time,5+ Years,20
+JOB054,Business Analyst,Deloitte,Mumbai,Tableau,Internship,0-1 Years,20
+JOB055,Data Scientist,Infosys,Bengaluru,Excel,Full-time,0-1 Years,20
+JOB056,Python Developer,Deloitte,Chennai,Machine Learning,Full-time,3-5 Years,9
+JOB057,Business Analyst,Deloitte,Mumbai,Power BI,Part-time,0-1 Years,5
+JOB058,Business Analyst,Tech Mahindra,Noida,Excel,Full-time,0-1 Years,13
+JOB059,Web Developer,Wipro,Delhi,Excel,Full-time,5+ Years,20
+JOB060,Business Analyst,Tech Mahindra,Mumbai,Python,Full-time,0-1 Years,7
+JOB061,Machine Learning Engineer,TCS,Noida,Excel,Internship,1-3 Years,16
+JOB062,Python Developer,TCS,Chennai,Excel,Full-time,3-5 Years,9
+JOB063,Business Analyst,Accenture,Delhi,Python,Part-time,5+ Years,7
+JOB064,Python Developer,Wipro,Noida,Tableau,Full-time,5+ Years,3
+JOB065,Python Developer,Capgemini,Noida,Power BI,Internship,1-3 Years,11
+JOB066,Python Developer,Infosys,Pune,Tableau,Full-time,5+ Years,10
+JOB067,Python Developer,Cognizant,Chennai,Excel,Full-time,1-3 Years,3
+JOB068,Business Analyst,Accenture,Pune,Excel,Part-time,0-1 Years,11
+JOB069,Data Scientist,HCL Technologies,Pune,Java,Internship,3-5 Years,3
+JOB070,Data Analyst,Deloitte,Bengaluru,Machine Learning,Part-time,0-1 Years,6
+JOB071,Machine Learning Engineer,Tech Mahindra,Chennai,Java,Part-time,5+ Years,19
+JOB072,Data Analyst,Tech Mahindra,Mumbai,SQL,Part-time,0-1 Years,16
+JOB073,Data Analyst,HCL Technologies,Noida,Machine Learning,Internship,1-3 Years,14
+JOB074,Software Engineer,Infosys,Delhi,Excel,Internship,3-5 Years,6
+JOB075,Business Analyst,Deloitte,Mumbai,Excel,Internship,5+ Years,13
+JOB076,Software Engineer,Deloitte,Mumbai,SQL,Full-time,5+ Years,15
+JOB077,Business Analyst,Wipro,Mumbai,Machine Learning,Part-time,5+ Years,20
+JOB078,Web Developer,TCS,Chennai,Excel,Full-time,5+ Years,13
+JOB079,Software Engineer,Cognizant,Pune,Java,Full-time,5+ Years,8
+JOB080,Business Analyst,Infosys,Chennai,Machine Learning,Internship,3-5 Years,5
+JOB081,Web Developer,Accenture,Delhi,Excel,Full-time,1-3 Years,7
+JOB082,Data Analyst,TCS,Bengaluru,Power BI,Internship,0-1 Years,17
+JOB083,Software Engineer,IBM,Bengaluru,Java,Internship,5+ Years,18
+JOB084,Software Engineer,Accenture,Bengaluru,Java,Internship,0-1 Years,6
+JOB085,Web Developer,Tech Mahindra,Bengaluru,SQL,Internship,5+ Years,4
+JOB086,Machine Learning Engineer,Accenture,Noida,Python,Part-time,1-3 Years,17
+JOB087,Business Analyst,HCL Technologies,Mumbai,Machine Learning,Part-time,5+ Years,19
+JOB088,Software Engineer,HCL Technologies,Pune,SQL,Internship,5+ Years,17
+JOB089,Data Scientist,Accenture,Noida,Java,Part-time,5+ Years,10
+JOB090,Data Scientist,Cognizant,Hyderabad,Java,Part-time,1-3 Years,11
+JOB091,Data Scientist,Capgemini,Mumbai,Python,Full-time,1-3 Years,10
+JOB092,Software Engineer,Wipro,Delhi,SQL,Full-time,5+ Years,16
+JOB093,Data Scientist,HCL Technologies,Pune,Power BI,Full-time,1-3 Years,16
+JOB094,Software Engineer,IBM,Delhi,Python,Internship,5+ Years,18
+JOB095,Data Analyst,Capgemini,Chennai,Tableau,Part-time,5+ Years,20
+JOB096,Business Analyst,HCL Technologies,Noida,Machine Learning,Full-time,5+ Years,10
+JOB097,Data Scientist,Tech Mahindra,Pune,Python,Part-time,3-5 Years,15
+JOB098,Business Analyst,Wipro,Noida,Power BI,Full-time,0-1 Years,15
+JOB099,Machine Learning Engineer,IBM,Delhi,Python,Full-time,5+ Years,7
+JOB100,Web Developer,Cognizant,Bengaluru,Python,Part-time,5+ Years,13
+JOB101,Python Developer,Cognizant,Chennai,Excel,Part-time,3-5 Years,16
+JOB102,Data Scientist,Infosys,Pune,Python,Internship,0-1 Years,14
+JOB103,Python Developer,Infosys,Noida,Java,Full-time,0-1 Years,10
+JOB104,Python Developer,TCS,Mumbai,SQL,Full-time,1-3 Years,18
+JOB105,Business Analyst,Infosys,Mumbai,SQL,Part-time,3-5 Years,14
+JOB106,Python Developer,IBM,Mumbai,Java,Internship,0-1 Years,8
+JOB107,Data Scientist,Infosys,Mumbai,Python,Part-time,5+ Years,15
+JOB108,Business Analyst,Accenture,Hyderabad,Machine Learning,Internship,1-3 Years,6
+JOB109,Business Analyst,Deloitte,Noida,Java,Internship,0-1 Years,4
+JOB110,Data Scientist,HCL Technologies,Pune,Java,Part-time,0-1 Years,19
+JOB111,Business Analyst,Capgemini,Hyderabad,Tableau,Part-time,5+ Years,6
+JOB112,Software Engineer,Capgemini,Delhi,Tableau,Part-time,1-3 Years,16
+JOB113,Python Developer,HCL Technologies,Delhi,Excel,Internship,5+ Years,17
+JOB114,Software Engineer,IBM,Chennai,Excel,Full-time,0-1 Years,11
+JOB115,Software Engineer,Accenture,Noida,Power BI,Internship,5+ Years,13
+JOB116,Data Analyst,Cognizant,Noida,Excel,Full-time,5+ Years,9
+JOB117,Data Scientist,Deloitte,Chennai,Excel,Internship,3-5 Years,20
+JOB118,Data Analyst,HCL Technologies,Bengaluru,Python,Full-time,5+ Years,18
+JOB119,Machine Learning Engineer,Accenture,Delhi,Power BI,Internship,5+ Years,17
+JOB120,Web Developer,TCS,Hyderabad,Excel,Full-time,5+ Years,10
+JOB121,Data Scientist,IBM,Chennai,Power BI,Internship,3-5 Years,16
+JOB122,Business Analyst,HCL Technologies,Chennai,Excel,Internship,5+ Years,11
+JOB123,Data Scientist,Deloitte,Bengaluru,Python,Internship,1-3 Years,13
+JOB124,Data Analyst,HCL Technologies,Noida,Java,Full-time,1-3 Years,9
+JOB125,Business Analyst,Cognizant,Chennai,Java,Internship,3-5 Years,6
+JOB126,Web Developer,Accenture,Chennai,SQL,Part-time,1-3 Years,12
+JOB127,Data Analyst,HCL Technologies,Bengaluru,Excel,Full-time,0-1 Years,20
+JOB128,Data Scientist,Wipro,Delhi,Tableau,Part-time,0-1 Years,3
+JOB129,Machine Learning Engineer,Deloitte,Pune,Power BI,Part-time,3-5 Years,8
+JOB130,Data Analyst,Deloitte,Noida,Power BI,Full-time,0-1 Years,15
+JOB131,Software Engineer,Infosys,Mumbai,Java,Internship,0-1 Years,7
+JOB132,Python Developer,IBM,Chennai,Python,Full-time,0-1 Years,20
+JOB133,Web Developer,Tech Mahindra,Mumbai,Machine Learning,Internship,1-3 Years,19
+JOB134,Software Engineer,Cognizant,Pune,Excel,Internship,5+ Years,12
+JOB135,Machine Learning Engineer,IBM,Hyderabad,Machine Learning,Internship,0-1 Years,9
+JOB136,Business Analyst,Accenture,Chennai,Java,Full-time,1-3 Years,10
+JOB137,Python Developer,HCL Technologies,Hyderabad,SQL,Full-time,5+ Years,17
+JOB138,Business Analyst,IBM,Pune,Excel,Full-time,1-3 Years,12
+JOB139,Business Analyst,Deloitte,Delhi,Tableau,Part-time,0-1 Years,10
+JOB140,Data Scientist,IBM,Delhi,Tableau,Full-time,5+ Years,6
+JOB141,Machine Learning Engineer,Accenture,Delhi,SQL,Part-time,1-3 Years,5
+JOB142,Data Analyst,Wipro,Noida,Excel,Internship,3-5 Years,17
+JOB143,Data Analyst,Cognizant,Delhi,Excel,Internship,5+ Years,11
+JOB144,Machine Learning Engineer,HCL Technologies,Pune,Power BI,Full-time,0-1 Years,16
+JOB145,Business Analyst,Capgemini,Mumbai,Excel,Full-time,0-1 Years,10
+JOB146,Business Analyst,IBM,Mumbai,Python,Internship,3-5 Years,4
+JOB147,Web Developer,Wipro,Pune,Machine Learning,Internship,5+ Years,11
+JOB148,Python Developer,IBM,Pune,Java,Part-time,0-1 Years,18
+JOB149,Data Scientist,Tech Mahindra,Chennai,Excel,Internship,0-1 Years,8
+JOB150,Data Scientist,Tech Mahindra,Delhi,Power BI,Part-time,5+ Years,20
+JOB151,Data Analyst,Cognizant,Hyderabad,Excel,Part-time,3-5 Years,6
+JOB152,Web Developer,Tech Mahindra,Noida,Machine Learning,Full-time,5+ Years,16
+JOB153,Data Analyst,Accenture,Mumbai,Excel,Internship,5+ Years,17
+JOB154,Web Developer,TCS,Bengaluru,Excel,Internship,1-3 Years,12
+JOB155,Software Engineer,Cognizant,Hyderabad,Python,Internship,1-3 Years,8
+JOB156,Data Scientist,HCL Technologies,Hyderabad,Machine Learning,Part-time,0-1 Years,10
+JOB157,Web Developer,Infosys,Pune,Python,Internship,1-3 Years,18
+JOB158,Business Analyst,Deloitte,Mumbai,Java,Part-time,5+ Years,18
+JOB159,Software Engineer,Accenture,Pune,Machine Learning,Full-time,5+ Years,9
+JOB160,Machine Learning Engineer,HCL Technologies,Delhi,SQL,Full-time,3-5 Years,16
+JOB161,Data Scientist,HCL Technologies,Chennai,Tableau,Full-time,3-5 Years,12
+JOB162,Web Developer,IBM,Mumbai,Java,Part-time,1-3 Years,17
+JOB163,Machine Learning Engineer,Cognizant,Chennai,Excel,Internship,5+ Years,17
+JOB164,Data Scientist,Accenture,Delhi,SQL,Internship,5+ Years,10
+JOB165,Web Developer,Tech Mahindra,Hyderabad,Excel,Internship,5+ Years,15
+JOB166,Software Engineer,Wipro,Pune,Python,Full-time,3-5 Years,6
+JOB167,Web Developer,Cognizant,Hyderabad,Machine Learning,Part-time,0-1 Years,7
+JOB168,Software Engineer,Wipro,Hyderabad,Power BI,Part-time,3-5 Years,15
+JOB169,Business Analyst,Infosys,Noida,Excel,Internship,5+ Years,13
+JOB170,Business Analyst,Cognizant,Noida,Machine Learning,Full-time,0-1 Years,10
+JOB171,Business Analyst,Deloitte,Bengaluru,Java,Full-time,5+ Years,6
+JOB172,Web Developer,Infosys,Pune,SQL,Internship,3-5 Years,3
+JOB173,Data Analyst,Capgemini,Noida,Python,Part-time,3-5 Years,14
+JOB174,Software Engineer,Wipro,Bengaluru,Machine Learning,Part-time,1-3 Years,8
+JOB175,Python Developer,Infosys,Mumbai,Tableau,Part-time,1-3 Years,18
+JOB176,Machine Learning Engineer,Wipro,Bengaluru,Power BI,Internship,3-5 Years,17
+JOB177,Data Scientist,TCS,Noida,Power BI,Part-time,1-3 Years,5
+JOB178,Software Engineer,Capgemini,Mumbai,Excel,Internship,5+ Years,11
+JOB179,Software Engineer,Deloitte,Bengaluru,Power BI,Part-time,0-1 Years,10
+JOB180,Software Engineer,IBM,Chennai,Machine Learning,Part-time,3-5 Years,3
+JOB181,Web Developer,Tech Mahindra,Chennai,Python,Internship,0-1 Years,18
+JOB182,Web Developer,Deloitte,Noida,Tableau,Full-time,3-5 Years,10
+JOB183,Business Analyst,Accenture,Mumbai,Excel,Internship,1-3 Years,6
+JOB184,Business Analyst,TCS,Chennai,Tableau,Part-time,0-1 Years,14
+JOB185,Business Analyst,Wipro,Hyderabad,Excel,Part-time,5+ Years,8
+JOB186,Python Developer,Wipro,Noida,Machine Learning,Part-time,3-5 Years,8
+JOB187,Data Scientist,Cognizant,Noida,Excel,Internship,3-5 Years,6
+JOB188,Software Engineer,Infosys,Bengaluru,Tableau,Full-time,5+ Years,20
+JOB189,Data Scientist,Infosys,Noida,Power BI,Full-time,3-5 Years,20
+JOB190,Data Analyst,Cognizant,Chennai,Java,Internship,3-5 Years,15
+JOB191,Web Developer,Capgemini,Hyderabad,Java,Full-time,5+ Years,3
+JOB192,Machine Learning Engineer,HCL Technologies,Chennai,Machine Learning,Full-time,0-1 Years,17
+JOB193,Business Analyst,Deloitte,Delhi,Power BI,Full-time,1-3 Years,4
+JOB194,Data Analyst,Deloitte,Pune,Python,Full-time,1-3 Years,20
+JOB195,Python Developer,Tech Mahindra,Pune,Excel,Internship,5+ Years,7
+JOB196,Software Engineer,Infosys,Noida,Power BI,Internship,5+ Years,11
+JOB197,Data Analyst,Capgemini,Bengaluru,Power BI,Part-time,1-3 Years,14
+JOB198,Data Analyst,Capgemini,Mumbai,Java,Part-time,0-1 Years,15
+JOB199,Data Scientist,Accenture,Hyderabad,Tableau,Part-time,0-1 Years,9
+JOB200,Business Analyst,IBM,Hyderabad,Python,Part-time,1-3 Years,7
